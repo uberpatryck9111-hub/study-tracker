@@ -1,2 +1,7 @@
 **pycache**/
 *.pyc
+
+tf_env/
+*.keras
+__pycache__/
+*.png
